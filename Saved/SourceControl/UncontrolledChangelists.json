@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Documents/Unreal Projects/Sudoku-UE5/Content/sudokumap.umap",
+				"C:/Users/admin/Documents/Unreal Projects/Sudoku-UE5/Content/SudokuGenerator.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/Sudoku-UE5/Content/BP_ClickBox.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/Sudoku/Content/sudokumap_HLOD0_Instancing.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/Sudoku/Content/__ExternalActors__/sudokumap/7/SK/EURX7CB4AV13PIU4XDD8UB.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/Sudoku/Content/__ExternalObjects__/sudokumap/2/YG/6545J2RWEJIBTIXT9G4MIM.uasset",
